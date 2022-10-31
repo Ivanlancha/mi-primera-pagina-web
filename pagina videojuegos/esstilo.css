@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://fondosmil.com/fondo/22896.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+div{
+    text-align: center;
+    font-size: 15px;
+}
+a link{
+    color: aqua;
+}
+a :hover{
+    color: green;
+    text-decoration: underline;
+}
+a :visited{
+    color: blueviolet;
+}
+table, td, tr, th{
+    border: 2px solid azure;
+    color:whitesmoke
+}
+table{
+    border-collapse: collapse;
+    font-size: 20px;
+}
+td{
+    font-size: 30px;
+}
